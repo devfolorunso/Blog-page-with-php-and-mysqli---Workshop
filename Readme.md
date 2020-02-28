@@ -7,16 +7,15 @@
 
 ## Functionalities
 
-1.LOGIN
-2.REGISTER
-3.USER ROLES
+1. LOGIN
+2. REGISTER
+3. USER ROLES
 
 
 ## To Be Added 
-
-### Role authentication
-### Display the posts to the users
-### Add a showposts page
+1. Role authentication
+2. Display the posts to the users
+3. Add a showposts page
 
 
 
