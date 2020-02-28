@@ -5,9 +5,11 @@
 2. BOOTSTRAP
 3. JAVASCRIPT
 
-## LOGIN
-## REGISTER
-## USER ROLES
+## Functionalities
+
+### LOGIN
+### REGISTER
+### USER ROLES
 
 
 ## To Be Added 
