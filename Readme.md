@@ -7,9 +7,9 @@
 
 ## Functionalities
 
-### LOGIN
-### REGISTER
-### USER ROLES
+1.LOGIN
+2.REGISTER
+3.USER ROLES
 
 
 ## To Be Added 
